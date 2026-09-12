@@ -3,9 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B2B2B,100:664229&text=JOSE%20DANIEL%20%7C%20SHEÑEY&fontColor=e6b450&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Enthusiast%20•%20Creative%20Developer&descAlignY=58&descSize=16" alt="header"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8F40&center=true&vCenter=true&width=900&lines=Designing+ideas+in+the+dark.;Building+projects+with+neon+energy.;Always+learning.+Always+creating." alt="typing"/>
+
+<br/>
 
 </div>
 
@@ -13,12 +13,19 @@
 
 
 <div align="center">
-
-### <span style="color:#E8FF1A;">✦ ABOUT ME ✦</span>
   
-<code align="center" width="760" color="2B2B2B">Passionate developer focused on Computer Science, automation, and digital creativity.
-I enjoy transforming ideas into useful projects, polishing details, and exploring new tools.
-</code>
+### <span style="color:#E8FF1A;">✦ ABOUT ME ✦</span>
+
+</div>
+
+<div>
+  
+> Passionate teenage developer focused on *Computer Science*.
+>  
+> I enjoy transforming ideas into useful projects, polishing details, and exploring new tools. So, I love creating
+> new, innovative, and beautiful technologies that help me—and others—build really cool niche projects.
+>  
+> That's me... **Sheñey**, a future software engineer.
 
 </div>
 
