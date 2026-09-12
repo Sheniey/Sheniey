@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,100:1a1a1a&text=JOSE%20DANIEL%20%7C%20SHEÑEY&fontColor=E8FF1A&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Enthusiast%20•%20Creative%20Developer&descAlignY=58&descSize=16" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B2B2B,100:664229&text=JOSE%20DANIEL%20%7C%20SHEÑEY&fontColor=e6b450&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Enthusiast%20•%20Creative%20Developer&descAlignY=58&descSize=16" alt="header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=E8FF1A&center=true&vCenter=true&width=900&lines=Designing+ideas+in+the+dark.;Building+projects+with+neon+energy.;Always+learning.+Always+creating." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8F40&center=true&vCenter=true&width=900&lines=Designing+ideas+in+the+dark.;Building+projects+with+neon+energy.;Always+learning.+Always+creating." alt="typing"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### <span style="color:#E8FF1A;">✦ ABOUT ME ✦</span>
   
-<code align="center" width="760">Passionate developer focused on Computer Science, automation, and digital creativity.
+<code align="center" width="760" color="2B2B2B">Passionate developer focused on Computer Science, automation, and digital creativity.
 I enjoy transforming ideas into useful projects, polishing details, and exploring new tools.
 </code>
 
@@ -26,9 +26,9 @@ I enjoy transforming ideas into useful projects, polishing details, and explorin
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-E8FF1A?style=for-the-badge&labelColor=E6B450" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-E8FF1A?style=for-the-badge&labelColor=0B0B0B" />
-  <img src="https://img.shields.io/badge/FOCUS-LEARNING-E8FF1A?style=for-the-badge&labelColor=0B0B0B" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF8F40?style=for-the-badge&labelColor=0B0B0B" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-FF8F40?style=for-the-badge&labelColor=0B0B0B" />
+  <img src="https://img.shields.io/badge/FOCUS-LEARNING-FF8F40?style=for-the-badge&labelColor=0B0B0B" />
 </div>
 
 <br/>
